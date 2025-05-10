@@ -23,7 +23,7 @@ int main() {
     scanf(" %c", &Estado1); //dar espaço antes do % para corrigir um bug
     
     //inserir Codigo
-    printf("Digite o Codigo: ");
+    printf("Digite o Codigo(Ex: A01, B02): ");
     scanf("%3s", &Codigo1); //usar "%3s" para aparecer somente os 3 caracteres que forem digitados
     
     //inserir Cidade
